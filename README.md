@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sansdri.my.id" target="blank">
+  <a href="https://sandri.my.id" target="blank">
     <img
       src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
       alt="elvxk"
