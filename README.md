@@ -1,8 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp
-    >&gt; Hii 👋, I am<b
-      ><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b
+    >&gt; Hii 👋, I am<b><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b
     >
   </samp>
 </h3>
