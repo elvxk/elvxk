@@ -1,52 +1,72 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hii 👋, I am
-                <b><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b>
-        </samp>
+  <samp
+    >&gt; Hii 👋, I am<b
+      ><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b
+    >
+  </samp>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a web developer and frontend enthusiast from <b>Indonesia</b> 」
-    <br>
-    <br>
+<p align="center">
+  <samp
+    ><br />「 I am a web developer and frontend enthusiast from
+    <b>Indonesia</b> 」
+    <br />
+    <br />
   </samp>
 </p>
 
 <p align="center">
- <a href="https://sansdri.my.id" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="elvxk" />
- </a>
- <a href="https://linkedin.com/in/elvxk" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="elvxk"/>
- </a>
- <a href="https://twitter.com/r_sandriii" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="r_sandriii" />
- </a>
- <a href="https://instagram.com/elvxk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="elvxk" />
- </a> 
- <a href="https://facebook.com/elvxk" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="elvxk"  />
-  </a> 
+  <a href="https://sansdri.my.id" target="blank">
+    <img
+      src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
+      alt="elvxk"
+    />
+  </a>
+  <a href="https://linkedin.com/in/elvxk" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="elvxk"
+    />
+  </a>
+  <a href="https://twitter.com/r_sandriii" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="r_sandriii"
+    />
+  </a>
+  <a href="https://instagram.com/elvxk" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="elvxk"
+    />
+  </a>
+  <a href="https://facebook.com/elvxk" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
+      alt="elvxk"
+    />
+  </a>
+  <a href="https://dribbble.com/elvxk" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"
+      alt="elvxk"
+    />
+  </a>
 </p>
 <br />
 
 <!-- About Section -->
 # About me
- 
-<p>
-  
- 🎓 &emsp; I am a fresh graduate with an Informatics Engineering degree<br/><br/>
- 🚀 &emsp; Love to learning new features, especially for frontend developers<br/><br/>
- 🎸 &emsp; I am also enthusiastic about music<br/><br/>
- 📧 &emsp; Reach me anytime: pradiptaramadan9c@gmail.com<br/><br/>
 
+<p>
+  🎓 &emsp; I am a fresh graduate with an Informatics Engineering degree<br /><br />
+  🚀 &emsp; Love to learning new features, especially for frontend developers<br /><br />
+  🎸 &emsp; I am also enthusiastic about music<br /><br />
+  📧 &emsp; Reach me anytime: pradiptaramadan9c@gmail.com<br /><br />
 </p>
 
-<br/>
+<br />
 
 ## Use To Code
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -62,12 +82,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-<br/>
+<br />
 
-## Other Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+## Other Tools ![Adobe
+Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere
+Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-<br/>
+<br />
