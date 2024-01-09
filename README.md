@@ -64,7 +64,7 @@
   🎓 &emsp; I am a fresh graduate with an Informatics Engineering degree<br /><br />
   🚀 &emsp; Love to learning new features, especially for frontend developers<br /><br />
   🎸 &emsp; I am also enthusiastic about music<br /><br />
-  📧 &emsp; Reach me anytime: pradiptaramadan9c@gmail.com<br /><br />
+  📧 &emsp; Reach me anytime: <a href="mailto:pradiptaramadan9c@gmail.com">pradiptaramadan9c@gmail.com</a><br /><br />
 </p>
 
 <br />
