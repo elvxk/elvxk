@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <!--   <img src="https://github.com/elvxk/elvxk/blob/main/assets/logo.png" alt="elvxk" width="200"><br> -->
-  <img src="https://github.com/elvxk/elvxk/blob/main/assets/logo.png" alt="elvxk" width="200"><br>
+  <img src="https://github.com/elvxk/elvxk/blob/main/assets/color%20new%20logo.png" alt="elvxk" width="200"><br>
   <samp
     >&gt; Hii 👋, I am <b><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b
     >
