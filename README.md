@@ -75,7 +75,7 @@
 
 [![neovim](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=react-tailwind-starter&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/react-tailwind-starter)<br/><br/>
 [![kirby ohmyposh](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=kirby-omp&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/kirby-omp) &emsp;
-[![neovim](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=neovim&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/neovim)
+[![neovim](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=nvim&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/nvim)
 
 <br/>
 
