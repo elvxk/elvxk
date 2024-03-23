@@ -67,7 +67,7 @@
   📧 &emsp; Reach me anytime: <a href="mailto:pradiptaramadan9c@gmail.com">pradiptaramadan9c@gmail.com</a><br /><br />
 </p>
 
-[![elvxk git jurney en](https://github-readme-stats.vercel.app/api?username=elvxk&theme=catppuccin_mocha&show_icons=true&border_radius=12&rank_icon=github&custom_title=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BBelvxk%20git%20journey&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/elvxk) &emsp; [![elvxk stack journey](https://github-readme-stats.vercel.app/api/top-langs/?username=elvxk&theme=catppuccin_mocha&layout=donut&border_radius=12&custom_title=%F0%9F%8E%A8%20Git%20stack%20journey)](https://github.com/elvxk)
+[![elvxk git jurney en](https://github-readme-stats.vercel.app/api?username=elvxk&theme=catppuccin_mocha&show_icons=true&border_radius=12&rank_icon=github&custom_title=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BBelvxk%20git%20journey&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/elvxk) &emsp; [![elvxk stack journey](https://github-readme-stats.vercel.app/api/top-langs/?username=elvxk&theme=catppuccin_mocha&layout=donut&border_radius=12&custom_title=%F0%9F%8E%A8%20Git%20stack%20journey&hide=shell)](https://github.com/elvxk)
 
 <br />
 
