@@ -61,7 +61,7 @@
 ## About me 👋
 
 <p>
-  🎓 &emsp; I am a fresh graduate with an Informatics Engineering degree<br /><br />
+  🏢 &emsp; Customer support at <a href="jagoanhosting.com" target="_blank">Jagoan Hosting Indonesia</a><br /><br />
   🚀 &emsp; Love to learning new features, especially for frontend developers<br /><br />
   🎸 &emsp; I am also enthusiastic about music<br /><br />
   📧 &emsp; Reach me anytime: <a href="mailto:me@sandri.my.id">me@sandri.my.id</a><br /><br />
