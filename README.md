@@ -4,21 +4,21 @@
 <!--   <img src="https://github.com/elvxk/elvxk/blob/main/assets/logo.png" alt="elvxk" width="200"><br> -->
   <img src="https://github.com/elvxk/elvxk/blob/main/assets/color%20new%20logo.png" alt="elvxk" width="200"><br>
   <samp
-    >&gt; Hii 👋, I am <b><a target="_blank" href="https://sandri.my.id">Pradipta R. Sandri</a></b
+    >&gt; Hii 👋, I am <b><a target="_blank" href="https://pradipta.dev">Pradipta R. Sandri</a></b
     >
   </samp>
 </h3>
 <p align="center">
   <samp>「 I am a web developer and frontend enthusiast from
     <b>Indonesia</b> 」
-    <br />www.sandri.my.id
+    <br />www.pradipta.dev
     <br />
     <br />
   </samp>
 </p>
 
 <p align="center">
-  <a href="https://sandri.my.id" target="blank">
+  <a href="https://pradipta.dev" target="blank">
     <img
       src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
       alt="elvxk"
@@ -64,7 +64,7 @@
   🏢 &emsp; Customer support at <a href="https://jagoanhosting.com" target="_blank">Jagoan Hosting Indonesia</a><br /><br />
   🚀 &emsp; Love to learning new features, especially for frontend developers<br /><br />
   🎸 &emsp; I am also enthusiastic about music<br /><br />
-  📧 &emsp; Reach me anytime: <a href="mailto:me@sandri.my.id">me@sandri.my.id</a><br /><br />
+  📧 &emsp; Reach me anytime: <a href="mailto:me@pradipta.dev">me@pradipta.dev</a><br /><br />
 </p>
 
 [![elvxk git jurney en](https://github-readme-stats.vercel.app/api?username=elvxk&theme=catppuccin_mocha&show_icons=true&border_radius=12&rank_icon=github&custom_title=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BBelvxk%20git%20journey&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/elvxk) &emsp; [![elvxk stack journey](https://github-readme-stats.vercel.app/api/top-langs/?username=elvxk&theme=catppuccin_mocha&layout=donut&border_radius=12&custom_title=%F0%9F%8E%A8%20Git%20stack%20journey&hide=shell)](https://github.com/elvxk)
@@ -111,5 +111,5 @@
 &nbsp;&middot;&nbsp;
 <a href="https://dribbble.com/elvxk" target="_blank"><samp>Dribbble</samp></a>
 <br/>
-<a href="https://sandri.my.id" target="_blank"><samp>www.sandri.my.id</samp></a>
+<a href="https://pradipta.dev" target="_blank"><samp>www.pradipta.dev</samp></a>
 </div>
