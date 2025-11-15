@@ -73,7 +73,7 @@
 
 ## Special from me ✨
 
-[![nextbrtlsm](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=nextbrtlsm&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/nextbrtlsm) &emsp;
+[![nextbrtlsmup](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=nextbrtlsm&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/nextbrtlsm) &emsp;
 [![react-tailwind](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=react-tailwind-starter&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/react-tailwind-starter)<br/><br/>
 [![lingkeu](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=my-lingkeu&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/my-lingkeu) &emsp;
 [![kirby ohmyposh](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=kirby-omp&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/kirby-omp) &emsp;
