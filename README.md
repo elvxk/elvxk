@@ -61,7 +61,7 @@
 ## About me 👋
 
 <p>
-  🏢 &emsp; Customer support at <a href="https://jagoanhosting.com" target="_blank">Jagoan Hosting Indonesia</a><br /><br />
+  🏢 &emsp; Customer Support Specialist at <a href="https://jagoanhosting.com" target="_blank">Jagoan Hosting Indonesia</a><br /><br />
   🚀 &emsp; Love to learning new features, especially for frontend developers<br /><br />
   🎸 &emsp; I am also enthusiastic about music<br /><br />
   📧 &emsp; Reach me anytime: <a href="mailto:me@pradipta.dev">me@pradipta.dev</a><br /><br />
