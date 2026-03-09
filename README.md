@@ -67,16 +67,16 @@
   📧 &emsp; Reach me anytime: <a href="mailto:me@pradipta.dev">me@pradipta.dev</a><br /><br />
 </p>
 
-[![elvxk git jurney en](https://github-readme-stats-fast.vercel.app/api?username=elvxk&theme=catppuccin_mocha&show_icons=true&border_radius=12&rank_icon=github&custom_title=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BBelvxk%20git%20journey&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/elvxk) &emsp; [![elvxk stack journey](https://github-readme-stats.vercel.app/api/top-langs/?username=elvxk&theme=catppuccin_mocha&layout=donut&border_radius=12&custom_title=%F0%9F%8E%A8%20Git%20stack%20journey&hide=shell)](https://github.com/elvxk)
+[![elvxk git jurney en](https://github-readme-stats-fast.vercel.app/api?username=elvxk&theme=catppuccin_mocha&show_icons=true&border_radius=12&rank_icon=github&custom_title=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BBelvxk%20git%20journey&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/elvxk) &emsp; [![elvxk stack journey](https://github-readme-stats-fast.vercel.appp/api/top-langs/?username=elvxk&theme=catppuccin_mocha&layout=donut&border_radius=12&custom_title=%F0%9F%8E%A8%20Git%20stack%20journey&hide=shell)](https://github.com/elvxk)
 
 <br />
 
 ## Special from me ✨
 
-[![nextbrtlsmup](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=nextbrtlsm&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/nextbrtlsm) &emsp;
-[![react-tailwind](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=react-tailwind-starter&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/react-tailwind-starter)<br/><br/>
-[![lingkeu](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=my-lingkeu&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/my-lingkeu) &emsp;
-[![kirby ohmyposh](https://github-readme-stats.vercel.app/api/pin/?username=elvxk&repo=kirby-omp&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/kirby-omp) &emsp;
+[![nextbrtlsmup](https://github-readme-stats-fast.vercel.appp/api/pin/?username=elvxk&repo=nextbrtlsm&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/nextbrtlsm) &emsp;
+[![react-tailwind](https://github-readme-stats-fast.vercel.appp/api/pin/?username=elvxk&repo=react-tailwind-starter&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/react-tailwind-starter)<br/><br/>
+[![lingkeu](https://github-readme-stats-fast.vercel.appp/api/pin/?username=elvxk&repo=my-lingkeu&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/my-lingkeu) &emsp;
+[![kirby ohmyposh](https://github-readme-stats-fast.vercel.appp/api/pin/?username=elvxk&repo=kirby-omp&theme=catppuccin_mocha&border_radius=12)](https://github.com/elvxk/kirby-omp) &emsp;
 <br/>
 
 ## My tech 🐱‍💻
